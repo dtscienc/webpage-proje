@@ -1,0 +1,10 @@
+{
+  "description": "Showcases products with surreal, futuristic 3D visuals and warped watch-face designs in a sleek dark mode layout, enhancing modern brand appeal.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
